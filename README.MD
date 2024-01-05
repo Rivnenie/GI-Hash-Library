@@ -10,6 +10,8 @@
 
 * **Yuanshen** - Chinese Version
 
+* **IPA** - iOS version game it's can be Yuanshen/Global
+
 ---
 
 **Note**:
