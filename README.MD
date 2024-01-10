@@ -20,10 +20,4 @@
 
 * Anyone can contribute to this Repository.
 
-* SHA3 indexed files can request to me in direct @TemaFlux
-
-**TODO**:
-
-* Upload MD5 hash
-
 ---
