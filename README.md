@@ -3,8 +3,8 @@
 **General Data Size**: 1.05 TB (1,162,418,908,057 bytes)  
 
 # Count files by ext
-**blk**: 136,537  
-**pck**: 1,713  
+**blk**: 136537  
+**pck**: 1713  
 **srt**: 542  
 **meta**: 245  
 **usm**: 245  
